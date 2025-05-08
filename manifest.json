@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"minAppVersion": "1.0.0",
 	"description": "Obsidian에서 테이블을 생성 및 향상시킬 수 있는 플러그인",
-	"author": "banjax",
-	"authorUrl": "https://github.com/banjax",
+	"author": "spigel",
+	"authorUrl": "https://github.com/space-angel",
 	"main": "main.js"
   }
